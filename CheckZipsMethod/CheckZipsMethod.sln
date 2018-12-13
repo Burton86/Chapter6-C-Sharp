@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZipsMethod", "CheckZipsMethod\CheckZipsMethod.csproj", "{8C675CB7-1EF2-4775-B520-74E9D315F4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C675CB7-1EF2-4775-B520-74E9D315F4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C675CB7-1EF2-4775-B520-74E9D315F4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C675CB7-1EF2-4775-B520-74E9D315F4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C675CB7-1EF2-4775-B520-74E9D315F4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9EFB6F6-75A7-46C8-8797-B58EE5282E06}
+	EndGlobalSection
+EndGlobal
